@@ -2,6 +2,9 @@
 
 An insightful, data-driven analysis of 1,250+ space missions to understand success rates, key players, and factors influencing success in space exploration. This project uses Python, Power BI, and various visualization techniques to aid in data-driven decision-making.
 
+![Analysis pic](https://github.com/user-attachments/assets/0e623bfc-4c33-4a04-8745-d92057ff6534)
+
+
 ## 📊 Project Overview
 
 This project aims to analyze the success rate of space missions and provide insights into companies and institutes involved in space exploration. Covering 1,250+ missions, the study revealed an overall success rate of 85%. The analysis spans mission success factors, organization-wise success rates, and rocket status.
